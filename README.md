@@ -60,9 +60,9 @@ As **Help Desk Agent (Jane)**:
 As an **End User**, create a new ticket:  
 - **Issue:** *Accounting department needs Adobe upgrade, broken.*  
 - As **Help Desk Agent (John)**: Observe the ticket’s properties and update:  
-  - **Priority:** **Sev-B (4 hours, 24/7)**  
-  - **Department:** **Support**  
-  - **Modify Department Hierarchy:**  
+  - Priority: Sev-B (4 hours, 24/7)  
+  - Department: Support  
+  - Modify Department Hierarchy:  
     - Change **SysAdmins** to a **Top-Level Department**  
     - **DELETE** the **Maintenance Department** (not archive)  
 - Work the ticket to completion as **John**.  
@@ -70,8 +70,8 @@ As an **End User**, create a new ticket:
 As an **End User**, create a third ticket:  
 - **Issue:** *CFO’s laptop will no longer turn on.*  
 - As **Help Desk Agent (John)**, set properties:  
-  - **Priority:** **Sev-B (4 hours, 24/7)**  
-  - **Department:** **Support**  
+  - Priority: Sev-B (4 hours, 24/7)  
+  - Department: Support  
 - Work the ticket to completion as **John**.  
 
 ### **Permission Restrictions**  
@@ -79,13 +79,13 @@ As an **End User**, create a third ticket:
 - Observe that **John** can no longer access the ticket.  
 - As **Admin**, switch to the **Admin Panel** and assign yourself **View-access** to SysAdmins.  
 - Switch back to **Agent Panel** – now observe the **escalated ticket**.  
-- Notice that you can **view the ticket but no longer make changes**.   
+- Notice that you can **view** the ticket but **no longer make changes**.   
 
 ---
 
 ## **Real-World Ticket Intake**  
 - Tickets can be submitted in various ways:  
-  - **Phone calls, chat apps, emails, web forms, or in-person requests.**  
+  - Phone calls, chat apps, emails, web forms, or in-person requests.  
 - In IT support, people often ask for help **without submitting a ticket**.  
 - It’s okay to fix things on the spot, but **always create tickets** for documentation and metrics tracking.  
 
