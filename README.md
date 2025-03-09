@@ -54,7 +54,9 @@ As **Help Desk Agent (Jane)**:
 - Explain that most ticketing systems (including osTicket) **send email notifications** to users when updates are made.  
 - Users can respond via email, and replies are logged in the ticket.
 
-### **More Practice - Another Ticket Submission**  
+---
+
+## More Practice  
 As an **End User**, create a new ticket:  
 - **Issue:** *Accounting department needs Adobe upgrade, broken.*  
 - As **Help Desk Agent (John)**: Observe the ticket’s properties and update:  
@@ -65,7 +67,6 @@ As an **End User**, create a new ticket:
     - **DELETE** the **Maintenance Department** (not archive)  
 - Work the ticket to completion as **John**.  
 
-### **Ticket Escalation**  
 As an **End User**, create a third ticket:  
 - **Issue:** *CFO’s laptop will no longer turn on.*  
 - As **Help Desk Agent (John)**, set properties:  
@@ -91,14 +92,14 @@ As an **End User**, create a third ticket:
 ---
 
 ## **Finishing Up & Additional Practice**  
-- **osTicket offers more features** beyond this lab – explore them!  
-- **Experiment with the email functionality** for ticket updates.  
-- **Repeat this lab multiple times** until you can complete it from memory.  
-- **Building Technical Intuition:**  
-  - **Repetition builds confidence.**  
-  - **Understanding ticket management** is crucial for IT help desk roles.  
+- osTicket offers more features beyond this lab – explore them!  
+- Experiment with the email functionality for ticket updates.  
+- Repeat this lab multiple times until you can complete it from memory.  
+- Building Technical Intuition:  
+  - Repetition builds confidence.  
+  - Understanding ticket management is crucial for IT help desk roles.  
 
 ---
 
-### 🎉 **Congratulations! You’ve completed the osTicket Ticket Lifecycle Lab!** 🎉 
+#### 🎉 Congratulations! You’ve completed the osTicket Ticket Lifecycle Lab! 🎉 
 
