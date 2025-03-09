@@ -20,15 +20,14 @@ This tutorial outlines the **lifecycle of a help desk ticket** within the open-s
 
 ---
 
-## Ticket Lifecycle Stages  
+## Access osTicket  
 
-### 1. Access osTicket  
 - **Admin/Analyst Login Page:** [http://localhost/osTicket/scp/login.php](http://localhost/osTicket/scp/login.php)  
 - **End User Portal:** [http://localhost/osTicket](http://localhost/osTicket)  
 
 ---
 
-## Lifecycle Stages  
+## Ticket Lifecycle Stages  
 
 ### **Stage 1: Ticket Creation (Intake)**  
 - **Scenario:** The **end user** submits a ticket using the osTicket web portal.  
@@ -37,20 +36,25 @@ This tutorial outlines the **lifecycle of a help desk ticket** within the open-s
 ### **Stage 2: Ticket Assignment & Categorization**  
 As a **Help Desk Agent (John)**:  
 - Observe ticket properties:  
-  - **Priority:** Unassigned  
-  - **Department:** Unassigned  
-  - **SLA:** Unassigned  
-  - **Assigned To:** Unassigned  
+  - Priority  
+  - Department 
+  - SLA  
+  - Assigned To  
 - Set ticket properties:  
-  - **Priority:** **Sev-A (1 hour, 24/7)**  
-  - **Department:** **Online Banking Department**  
+  - **Priority:** i.e. Sev-A (1 hour, 24/7)  
+  - **Department:** i.e. Online Banking Department  
 - Attempt to re-observe the ticket as "John" – Can you still view or change it?  
 
 ### **Stage 3: Ticket Resolution**  
 As **Help Desk Agent (Jane)**:  
-- Work the ticket to completion.  
+- Work the ticket to completion.
 
-### **Stage 4: Another Ticket Submission**  
+### **Stage 4: Finalizing & Ticket Closure**  
+- Solve all remaining tickets.  
+- Explain that most ticketing systems (including osTicket) **send email notifications** to users when updates are made.  
+- Users can respond via email, and replies are logged in the ticket.
+
+### **More Practice - Another Ticket Submission**  
 As an **End User**, create a new ticket:  
 - **Issue:** *Accounting department needs Adobe upgrade, broken.*  
 - As **Help Desk Agent (John)**: Observe the ticket’s properties and update:  
@@ -61,7 +65,7 @@ As an **End User**, create a new ticket:
     - **DELETE** the **Maintenance Department** (not archive)  
 - Work the ticket to completion as **John**.  
 
-### **Stage 5: Ticket Escalation**  
+### **Ticket Escalation**  
 As an **End User**, create a third ticket:  
 - **Issue:** *CFO’s laptop will no longer turn on.*  
 - As **Help Desk Agent (John)**, set properties:  
@@ -69,17 +73,12 @@ As an **End User**, create a third ticket:
   - **Department:** **Support**  
 - Work the ticket to completion as **John**.  
 
-### **Stage 6: Permission Restrictions**  
+### **Permission Restrictions**  
 - Set **Sev-A** priority for the **SysAdmins Department** on a ticket.  
 - Observe that **John** can no longer access the ticket.  
 - As **Admin**, switch to the **Admin Panel** and assign yourself **View-access** to SysAdmins.  
 - Switch back to **Agent Panel** – now observe the **escalated ticket**.  
-- Notice that you can **view the ticket but no longer make changes**.  
-
-### **Stage 7: Finalizing & Ticket Closure**  
-- Solve all remaining tickets.  
-- Explain that most ticketing systems (including osTicket) **send email notifications** to users when updates are made.  
-- Users can respond via email, and replies are logged in the ticket.  
+- Notice that you can **view the ticket but no longer make changes**.   
 
 ---
 
