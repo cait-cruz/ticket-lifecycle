@@ -61,10 +61,7 @@ As an **End User**, create a new ticket:
 - **Issue:** *Accounting department needs Adobe upgrade, broken.*  
 - As **Help Desk Agent (John)**: Observe the ticket’s properties and update:  
   - Priority: Sev-B (4 hours, 24/7)  
-  - Department: Support  
-  - Modify Department Hierarchy:  
-    - Change **SysAdmins** to a **Top-Level Department**  
-    - **DELETE** the **Maintenance Department** (not archive)  
+  - Department: Support    
 - Work the ticket to completion as **John**.  
 
 As an **End User**, create a third ticket:  
@@ -101,5 +98,5 @@ As an **End User**, create a third ticket:
 
 ---
 
-#### 🎉 Congratulations! You’ve completed the osTicket Ticket Lifecycle Lab! 🎉 
+### 🎉 Congratulations! You’ve completed the osTicket Ticket Lifecycle Lab! 🎉 
 
