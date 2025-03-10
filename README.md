@@ -111,4 +111,3 @@ As an **End User**, create a third ticket:
 ---
 
 ### 🎉 Congratulations! You’ve completed the osTicket Ticket Lifecycle Lab! 🎉 
-
