@@ -30,7 +30,7 @@ This tutorial outlines the **lifecycle of a help desk ticket** within the open-s
 ## Ticket Lifecycle Stages  
 
 ### **Stage 1: Ticket Creation (Intake)**  
-- **Scenario:** The **end user** submits a ticket using the osTicket web portal.  
+- **Scenario:** As an **end user**, submit a ticket using the osTicket web portal.  
 - **Example Ticket:** *Entire mobile/online banking system is down.*  
 
 ### **Stage 2: Ticket Assignment & Categorization**  
