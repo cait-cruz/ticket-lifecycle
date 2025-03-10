@@ -48,11 +48,15 @@ As a **Help Desk Agent (John)**:
 
 - Set ticket properties:  
   - **Priority:** i.e. Sev-A (1 hour, 24/7)  
-  - **Department:** i.e. Online Banking Department  
-- Attempt to re-observe the ticket as "John" – Can you still view or change it?  
+  - **Department:** i.e. Assign to "Online Banking Department"    
+
+![image](https://github.com/user-attachments/assets/0b7f80e0-d373-46dc-9e08-9ed28e53450e)
+
+![image](https://github.com/user-attachments/assets/50b55651-589b-4d34-9039-48994acfe45f)
+
 
 ### **Stage 3: Ticket Resolution**  
-As **Help Desk Agent (Jane)**:  
+As **Help Desk Agent (Jane)** from the Online Banking Department:  
 - Work the ticket to completion.
 
 ### **Stage 4: Finalizing & Ticket Closure**  
