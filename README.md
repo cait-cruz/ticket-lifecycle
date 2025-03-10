@@ -39,7 +39,13 @@ As a **Help Desk Agent (John)**:
   - Priority  
   - Department 
   - SLA  
-  - Assigned To  
+  - Assigned To
+ 
+![image](https://github.com/user-attachments/assets/f2558cdd-0120-4804-aa6a-f58480a61917)
+
+![image](https://github.com/user-attachments/assets/fb078a62-6575-4b03-a41f-6e1525d43208)
+
+
 - Set ticket properties:  
   - **Priority:** i.e. Sev-A (1 hour, 24/7)  
   - **Department:** i.e. Online Banking Department  
