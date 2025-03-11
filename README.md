@@ -41,25 +41,23 @@ As a **Help Desk Agent (John)**:
   - SLA  
   - Assigned To
  
-![image](https://github.com/user-attachments/assets/f2558cdd-0120-4804-aa6a-f58480a61917)
+![image](https://github.com/user-attachments/assets/80fae977-ffd4-46a0-9e4c-4b9cfa7b0b74)
 
-![image](https://github.com/user-attachments/assets/fb078a62-6575-4b03-a41f-6e1525d43208)
-
+![image](https://github.com/user-attachments/assets/55254248-e84a-4447-bf14-fbfafcf97331)
 
 - Set ticket properties:  
   - **Priority:** i.e. Sev-A (1 hour, 24/7)  
   - **Department:** i.e. Assign to "Online Banking Department"    
 
-![image](https://github.com/user-attachments/assets/0b7f80e0-d373-46dc-9e08-9ed28e53450e)
+![image](https://github.com/user-attachments/assets/b07c0de8-c5bd-45ce-aa4e-35bdce31a5ad)
 
-![image](https://github.com/user-attachments/assets/50b55651-589b-4d34-9039-48994acfe45f)
-
+![image](https://github.com/user-attachments/assets/57d0e364-47a8-4092-a0b1-cde29f2da0db)
 
 ### **Stage 3: Ticket Resolution**  
 As **Help Desk Agent (Jane)** from the Online Banking Department:  
 - Work the ticket to completion.
 
-![image](https://github.com/user-attachments/assets/65791757-7a8d-4dc8-adb5-e6010c69af3c)
+![image](https://github.com/user-attachments/assets/31fcd237-fa5e-4550-aca3-251eae78a59f)
 
 ### **Stage 4: Finalizing & Ticket Closure**  
 - Solve all remaining tickets.  
