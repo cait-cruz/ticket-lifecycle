@@ -33,6 +33,11 @@ This tutorial outlines the **lifecycle of a help desk ticket** within the open-s
 - **Scenario:** As an **end user**, submit a ticket using the osTicket web portal.  
 - **Example Ticket:** *Entire mobile/online banking system is down.*  
 
+![image](https://github.com/user-attachments/assets/edcc8a39-0103-4be3-a91b-3aa74130c0c6)
+
+![image](https://github.com/user-attachments/assets/d3b5489e-8f31-4f1c-a1ed-e4057eec2113)
+
+
 ### **Stage 2: Ticket Assignment & Categorization**  
 As a **Help Desk Agent (John)**:  
 - Observe ticket properties:  
@@ -41,23 +46,23 @@ As a **Help Desk Agent (John)**:
   - SLA  
   - Assigned To
  
-![image](https://github.com/user-attachments/assets/80fae977-ffd4-46a0-9e4c-4b9cfa7b0b74)
+![image](https://github.com/user-attachments/assets/50d449ad-8c62-44e2-8676-6be9c493cc7e)
 
-![image](https://github.com/user-attachments/assets/55254248-e84a-4447-bf14-fbfafcf97331)
 
 - Set ticket properties:  
-  - **Priority:** i.e. Sev-A (1 hour, 24/7)  
+  - **SLA Plan:** i.e. Sev-A (1 hour, 24/7)  
   - **Department:** i.e. Assign to "Online Banking Department"    
 
-![image](https://github.com/user-attachments/assets/b07c0de8-c5bd-45ce-aa4e-35bdce31a5ad)
+![image](https://github.com/user-attachments/assets/f8e206fa-28bf-4cee-9ce0-b816aa023e6c)
 
-![image](https://github.com/user-attachments/assets/57d0e364-47a8-4092-a0b1-cde29f2da0db)
+![image](https://github.com/user-attachments/assets/d74d36fa-c8a5-4d87-8cba-53b9e026b627)
+
 
 ### **Stage 3: Ticket Resolution**  
 As **Help Desk Agent (Jane)** from the Online Banking Department:  
 - Work the ticket to completion.
 
-![image](https://github.com/user-attachments/assets/31fcd237-fa5e-4550-aca3-251eae78a59f)
+
 
 ### **Stage 4: Finalizing & Ticket Closure**  
 - Solve all remaining tickets.  
