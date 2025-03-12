@@ -88,13 +88,6 @@ As an **End User**, create a third ticket:
   - Department: Support  
 - Work the ticket to completion as **John**.  
 
-### **Permission Restrictions**  
-- Set **Sev-A** priority for the **SysAdmins Department** on a ticket.  
-- Observe that **John** can no longer access the ticket.  
-- As **Admin**, switch to the **Admin Panel** and assign yourself **View-access** to SysAdmins.  
-- Switch back to **Agent Panel** – now observe the **escalated ticket**.  
-- Notice that you can **view** the ticket but **no longer make changes**.   
-
 ---
 
 ## **Real-World Ticket Intake**  
