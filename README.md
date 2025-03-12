@@ -62,12 +62,14 @@ As a **Help Desk Agent (John)**:
 As **Help Desk Agent (Jane)** from the Online Banking Department:  
 - Work the ticket to completion.
 
-
+![image](https://github.com/user-attachments/assets/65dfea42-fce3-4672-8b65-836a4650d01a)
 
 ### **Stage 4: Finalizing & Ticket Closure**  
 - Solve all remaining tickets.  
 - Explain that most ticketing systems (including osTicket) **send email notifications** to users when updates are made.  
 - Users can respond via email, and replies are logged in the ticket.
+
+![image](https://github.com/user-attachments/assets/004b9bb3-fd42-482d-bbc4-ff5517104ea6)
 
 ---
 
