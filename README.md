@@ -33,7 +33,7 @@ This tutorial outlines the **lifecycle of a help desk ticket** within the open-s
 - **Scenario:** As an **end user**, submit a ticket using the osTicket web portal.  
 - **Example Ticket:** *Entire mobile/online banking system is down.*  
 
-![image](https://github.com/user-attachments/assets/edcc8a39-0103-4be3-a91b-3aa74130c0c6)
+![image](https://github.com/user-attachments/assets/7ae2c058-f8f5-4139-8fcd-e0ebbf75d600)
 
 ![image](https://github.com/user-attachments/assets/d3b5489e-8f31-4f1c-a1ed-e4057eec2113)
 
@@ -46,7 +46,8 @@ As a **Help Desk Agent (John)**:
   - SLA  
   - Assigned To
  
-![image](https://github.com/user-attachments/assets/50d449ad-8c62-44e2-8676-6be9c493cc7e)
+![image](https://github.com/user-attachments/assets/5e507957-174e-44d5-ba85-2af4d20514be)
+
 
 
 - Set ticket properties:  
@@ -69,7 +70,8 @@ As **Help Desk Agent (Jane)** from the Online Banking Department:
 - Explain that most ticketing systems (including osTicket) **send email notifications** to users when updates are made.  
 - Users can respond via email, and replies are logged in the ticket.
 
-![image](https://github.com/user-attachments/assets/004b9bb3-fd42-482d-bbc4-ff5517104ea6)
+![image](https://github.com/user-attachments/assets/d88be0bf-fea9-440a-90cb-68d362ef7044)
+
 
 ---
 
